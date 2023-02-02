@@ -1,4 +1,4 @@
 .video__iframes {
-    position: absolute;
-    bottom: -40px;
+    position: relative;
+    bottom: -50px;
 }
